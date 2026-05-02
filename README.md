@@ -11,7 +11,8 @@
 - **Python** — Pandas, очистка данных, list comprehension  
 - **Excel / Google Sheets** — сводные таблицы, ВПР  
 - **Git** — основы (commit, push, ветки)  
-- **Визуализация** — диаграммы в Google Sheets / Excel  
+- **Визуализация** — диаграммы в Google Sheets / Excel
+- **Tableau** - построение дашбордов, фильтры, интерактивность 
 
 
 ## 📁 Мои проекты
